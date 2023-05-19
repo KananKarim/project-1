@@ -1,0 +1,21 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Kanan Karimli FS-1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kanan",
+  "license": "ISC",
+  "repository": "https://github.com/KananKarim/project-1.git",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
